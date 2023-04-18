@@ -1,0 +1,11 @@
+homepage: "https://github.com/carbon-language/carbon-lang"
+language: c++
+primary_contact: "chandlerc@google.com"
+main_repo: "https://github.com/carbon-language/carbon-lang.git"
+auto_ccs:
+ - "jperkins@google.com"
+ - "richardsmith@google.com"
+sanitizers:
+ - address
+ - memory
+file_github_issue: True
